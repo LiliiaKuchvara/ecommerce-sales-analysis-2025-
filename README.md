@@ -42,9 +42,6 @@ The main goal is to transform raw data into actionable business insights and rec
 | Return Rate | 4.37% |
 | Average Customer Rating | 3.90 / 5 |
 
-## Dashboard Preview
-
-![E-commerce Dashboard 2025](dashboard_2025.png)
 
 ## Business Conclusions & Recommendations
 
